@@ -14,10 +14,11 @@ let cacheTTL = 24 ;//小时，缓存时长
 
 //节点链接 + 订阅链接
 let MainData = `
-ss://YWVzLTI1Ni1nY206VXJqV09pMUUzUg==@shcm3-06080201.gorelay.xyz:32721#us3
-ss://YWVzLTI1Ni1nY206NHI5R3pMVDh5eQ==@gdcm3-06080213.gorelay.xyz:22213#us2
-ss://YWVzLTI1Ni1nY206VkhQT2xQSmxtQw==@shcm3-06080201.gorelay.xyz:22392#us1
 ss://YWVzLTI1Ni1nY206U2pkaTZIWUdreQ==@shcm1-06080150.gorelay.xyz:52633#us4
+ss://YWVzLTI1Ni1nY206VXJqV09pMUUzUg==@shcm3-06080201.gorelay.xyz:32721#us3
+ss://YWVzLTI1Ni1nY206VkhQT2xQSmxtQw==@shcm3-06080201.gorelay.xyz:22392#us1
+ss://YWVzLTI1Ni1nY206NHI5R3pMVDh5eQ==@shcm3-06080201.gorelay.xyz:32906#us2
+
 
 `
 
