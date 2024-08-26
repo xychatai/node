@@ -1,7 +1,7 @@
 
 // 部署完成后在网址后面加上这个，获取自建节点和机场聚合节点，/?token=auto或/auto或
 
-let mytoken = 'auto'; //可以随便取，或者uuid生成，https://1024tools.com/uuid
+let mytoken = 'xyai'; //可以随便取，或者uuid生成，https://1024tools.com/uuid
 let BotToken =''; //可以为空，或者@BotFather中输入/start，/newbot，并关注机器人
 let ChatID =''; //可以为空，或者@userinfobot中获取，/start
 let TG = 0; //小白勿动， 开发者专用，1 为推送所有的访问信息，0 为不推送订阅转换后端的访问信息与异常访问
@@ -14,8 +14,11 @@ let cacheTTL = 24 ;//小时，缓存时长
 
 //节点链接 + 订阅链接
 let MainData = `
-vless://b7a392e2-4ef0-4496-90bc-1c37bb234904@cf.090227.xyz:443?encryption=none&security=tls&sni=edgetunnel-2z2.pages.dev&fp=random&type=ws&host=edgetunnel-2z2.pages.dev&path=%2F%3Fed%3D2048#%E5%8A%A0%E5%85%A5%E6%88%91%E7%9A%84%E9%A2%91%E9%81%93t.me%2FCMLiussss%E8%A7%A3%E9%94%81%E6%9B%B4%E5%A4%9A%E4%BC%98%E9%80%89%E8%8A%82%E7%82%B9
-https://sub.xf.free.hr/auto
+ss://YWVzLTI1Ni1nY206VXJqV09pMUUzUg==@shcm3-06080201.gorelay.xyz:32721#us3
+ss://YWVzLTI1Ni1nY206NHI5R3pMVDh5eQ==@gdcm3-06080213.gorelay.xyz:22213#us2
+ss://YWVzLTI1Ni1nY206VkhQT2xQSmxtQw==@shcm3-06080201.gorelay.xyz:22392#us1
+ss://YWVzLTI1Ni1nY206U2pkaTZIWUdreQ==@shcm1-06080150.gorelay.xyz:52633#us4
+
 `
 
 let urls = [];
