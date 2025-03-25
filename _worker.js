@@ -14,20 +14,7 @@ let cacheTTL = 24 ;//小时，缓存时长
 
 //节点链接 + 订阅链接
 let MainData = `
-ss://YWVzLTI1Ni1nY206RjdLb3ExbXg3Sg==@node1.jdowivr.buzz:47745#%E8%8A%82%E7%82%B91
-ss://YWVzLTI1Ni1nY206ZEZmeHBISEozbA==@node1.jdowivr.buzz:10173#%E8%8A%82%E7%82%B92
-ss://YWVzLTI1Ni1nY206N0h0SkFCeG5VTA==@node1.jdowivr.buzz:22654#%E8%8A%82%E7%82%B93
-ss://YWVzLTI1Ni1nY206Wkg5R29BeVJBRw==@node1.jdowivr.buzz:37733#%E8%8A%82%E7%82%B94
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206VWpsbVpJSjIwc2x4MmFqdjlOT1ZYSUoyZWs5OG9BTkdyM2JMdjN5a1lhVE4=@node1.jdowivr.buzz:13765#%E8%8A%82%E7%82%B95
-ss://YWVzLTI1Ni1nY206MExaOVNHdHBuQg==@node1.jdowivr.buzz:28772#%E8%8A%82%E7%82%B96
-ss://YWVzLTI1Ni1nY206cFZaRTN6VXZBYw==@node1.jdowivr.buzz:58065#%E8%8A%82%E7%82%B97
-ss://YWVzLTI1Ni1nY206cHNkeE9xNGdWbw==@node1.jdowivr.buzz:25888#%E8%8A%82%E7%82%B98
-ss://YWVzLTI1Ni1nY206YzZyRmtRTkY3dg==@node1.jdowivr.buzz:36689#%E8%8A%82%E7%82%B99
-ss://YWVzLTI1Ni1nY206NmRtZG9QQmhVbg==@node1.jdowivr.buzz:19830#%E8%8A%82%E7%82%B910
-ss://YWVzLTI1Ni1nY206MExaOVNHdHBuQg==@tunnel-07312159.520300.xyz:32721#%E8%8A%82%E7%82%B911
-ss://YWVzLTI1Ni1nY206NHI5R3pMVDh5eQ==@shcm3-06080201.gorelay.xyz:32906#%E8%8A%82%E7%82%B912
-ss://YWVzLTI1Ni1nY206elVZRVN5SmhsZw==@tunnel-07312159.520300.xyz:52633#%E8%8A%82%E7%82%B913
-ss://YWVzLTI1Ni1nY206VkhQT2xQSmxtQw==@shcm3-06080201.gorelay.xyz:22392#%E8%8A%82%E7%82%B914
+ss://2022-blake3-aes-256-gcm:ubzUabMDCMMH9cZZVfyqg2wodiv6o2a8PyCHK6oWjSfd@144.34.224.132:46458#%E6%B5%8B%E8%AF%95
 `
 
 let urls = [];
